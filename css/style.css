@@ -7,3 +7,22 @@ img{
 .img{
     width: 100%;
 }
+form{
+    margin-left: 450px;
+    margin-top: 10px;
+    display: flex;
+    height: 40px;
+    width: 400px;
+}
+form img{
+    margin-left: 10px;
+    height: 40px;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.form h1{
+    text-align: center;
+}
