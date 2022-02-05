@@ -26,3 +26,27 @@ form img{
 .form h1{
     text-align: center;
 }
+.mbtn{
+    display: flex;
+    justify-content: center;
+}
+.mbtn a{
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    padding: 10px;
+}
+.mbtn a:hover{
+    background-color: rgb(226, 226, 226);
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
+a{
+    text-decoration: none;
+}
+.navbar-collapse{
+    display: flex;
+    justify-content: flex-end;
+}
